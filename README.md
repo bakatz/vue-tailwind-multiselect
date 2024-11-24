@@ -12,7 +12,7 @@ by [@ben_makes_stuff](https://x.com/ben_makes_stuff)
 
 ### Quickstart
 
-1. Copy VueTailwindMultiselect.vue into your project.
+1. Copy `VueTailwindMultiselect.vue` into your project.
 1. Make sure the dependencies in `package.json` are installed (vue, @vueuse/components, and tailwind)
 1. Use the following code example to get started:
 
