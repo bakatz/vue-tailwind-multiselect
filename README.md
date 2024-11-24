@@ -43,7 +43,7 @@ const selectedValues = ref([])
 
 ## Slots and Customization
 
-No. Just copy and paste the component into your project and make as many edits as you want. It's ~100 LOC and should be easy to understand.
+No. Just copy and paste the component into your project and make as many edits as you want.
 
 ## Features
 
