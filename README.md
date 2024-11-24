@@ -1,6 +1,6 @@
 # Vue + Tailwind CSS Multiselect Component (vue-tailwind-multiselect)
 
-A ~100 LOC, simple, no bullshit Vue 3 component for a multiselect dropdown using Tailwind CSS. Designed for modern UI needs. No complicated CSS or Bootstrap dependencies 🎉
+A ~128 LOC, simple, no bullshit Vue 3 component for a multiselect dropdown using Tailwind CSS. Designed for modern UI needs. No complicated CSS or Bootstrap dependencies 🎉
 
 Support for clear selections, bulk actions, and dynamic option management.
 
