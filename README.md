@@ -2,13 +2,13 @@
 
 A ~128 LOC, simple, no bullshit Vue 3 component for a multiselect dropdown using Tailwind CSS. Designed for modern UI needs. No complicated CSS or Bootstrap dependencies 🎉
 
-![alt text](image.png)
-
 Support for clear selections, bulk actions, and dynamic option management.
 
 by [@ben_makes_stuff](https://x.com/ben_makes_stuff)
 
 [![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=ben_makes_stuff&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/ben_makes_stuff)
+
+![Demo](image.png)
 
 ## Usage
 
