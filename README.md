@@ -2,6 +2,8 @@
 
 A ~128 LOC, simple, no bullshit Vue 3 component for a multiselect dropdown using Tailwind CSS. Designed for modern UI needs. No complicated CSS or Bootstrap dependencies 🎉
 
+![alt text](image.png)
+
 Support for clear selections, bulk actions, and dynamic option management.
 
 by [@ben_makes_stuff](https://x.com/ben_makes_stuff)
@@ -43,7 +45,9 @@ const selectedValues = ref([])
 
 ## Slots and Customization
 
-No. Just copy and paste the component into your project and make as many edits as you want.
+No. 
+
+Just copy and paste the component into your project and make as many edits as you want. Change colors by changing the tailwind classes.
 
 ## Features
 
